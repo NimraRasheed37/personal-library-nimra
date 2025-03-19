@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Haalim",
+        "author": "Nemrah Ahmed",
+        "year": "2020",
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "Malaa",
+        "author": "Nemrah Ahmed",
+        "year": "2025",
+        "genre": "Fiction",
+        "read": true
+    },
+    {
+        "title": "Harry potter and the philosophers stone",
+        "author": "J.K.Rowling",
+        "year": "1997",
+        "genre": "Fantasy",
+        "read": true
+    },
+    {
+        "title": "Harry potter and the chamber of secrets",
+        "author": "J.K.Rowling",
+        "year": "1998",
+        "genre": "Fantasy",
+        "read": true
+    }
+]
